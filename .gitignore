@@ -1,0 +1,5 @@
+build/qrlib/
+tests/shots/
+.DS_Store
+*.pyc
+.wrangler/
